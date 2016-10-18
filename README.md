@@ -1,5 +1,5 @@
 # ublock-antiskimming-list
-Subscription, that block sites with skimming scripts
+Subscription, that block sites with skimming scripts.
 
 Based on great work of **[gwillem](https://github.com/gwillem)**, thx him!
 
