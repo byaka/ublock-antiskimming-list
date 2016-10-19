@@ -40,11 +40,11 @@ class updater(object):
 
    def gitCommit(self):
       r=cmd((self._gitcmd, 'add', '.'), path=self._path)
-      print '>> [add]', r, raw_input()
+      # print '>> [add]', r, raw_input()
       r=cmd((self._gitcmd, 'commit', '-m', 'Auto-updating'), path=self._path)
-      print '>> [commit]', r, raw_input()
+      # print '>> [commit]', r, raw_input()
       r=cmd((self._gitcmd, 'push', 'origin', 'master'), path=self._path)
-      print '>> [push]', r, raw_input()
+      # print '>> [push]', r, raw_input()
 
    def stop(self):
       self._needStop=True
