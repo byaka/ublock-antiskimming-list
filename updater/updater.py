@@ -13,20 +13,29 @@ class updater(object):
          cmd((self._gitcmd, 'status'), path=self._path)
       except Exception, e:
          raise ValueError('Cant call git "%s": %s'%(self._gitcmd, e))
+      # set paths
       self._sourcePath=self._path+'/source/'
       self._outputPath=self._path+'/build/'
       self._dataPath=self._sourcePath+'data.txt'
       self._infoPath=self._sourcePath+'info.txt'
+      # check paths
       for s in (self._path, self._sourcePath, self._outputPath, self._dataPath, self._infoPath):
          if not os.path.exists(s):
             raise ValueError('Path not exist: "%s"'%s)
+      # prepare git log
+      if not os.path.exists(self._path+'/tmp'):
+         os.makedirs(self._path+'/tmp')
+      fileWrite(self._path+'/tmp/gitlog.txt', '')
+      # set settings
       self._needStop=False
       self._timeSleep=60
       self._interval=3*60*60
       self._lastRun=None
       self._lastChange=None
       self._re_builder=(r'^(.+)$', r'||\1^$document')
-      self._url=['https://gitlab.com/gwillem/public-snippets/snippets/28813/raw']
+      self._url=[
+         'https://gitlab.com/gwillem/public-snippets/snippets/28813/raw'
+      ]
 
    def __call__(self):
       self.start()
@@ -38,16 +47,27 @@ class updater(object):
          return data
       return None
 
+   def timestamp(self):
+      return datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+   def gitLog(self, what, data):
+      try:
+         fileAppend(self._path+'/tmp/gitlog.txt', '[%s] %s\n%s'%(self.timestamp(), what, data))
+      except Exception, e:
+         print '! Cant write git log: %s'%e
+
    def gitCommit(self):
       r=cmd((self._gitcmd, 'add', '.'), path=self._path)
-      # print '>> [add]', r, raw_input()
+      self.gitLog('add', r)
       r=cmd((self._gitcmd, 'commit', '-m', 'Auto-updating'), path=self._path)
-      # print '>> [commit]', r, raw_input()
+      self.gitLog('commit', r)
       r=cmd((self._gitcmd, 'push', 'origin', 'master'), path=self._path)
-      # print '>> [push]', r, raw_input()
+      self.gitLog('push', r)
 
    def stop(self):
+      #! need to run main cicle in another thread or greenlet
       self._needStop=True
+      print 'Stopping, please wait near %s seconds..'%self._timeSleep
 
    def start(self):
       print 'Main cicle started!'
@@ -59,13 +79,11 @@ class updater(object):
                   data=data.replace('\r', '')
                   hashNew=sha256(data.strip())
                   hashOld=sha256(fileGet(self._dataPath).replace('\r', '').strip())
-                  print '~', hashOld!=hashNew
                   if hashOld!=hashNew:
-                     d=datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-                     print 'New changes founded..', d
+                     print 'New changes founded..', self.timestamp()
                      if not data.endswith('\n'): data+='\n'
                      dataBuilded=re.sub(self._re_builder[0], self._re_builder[1], data, flags=re.MULTILINE)
-                     dataBuilded='%s\n! Updated: %s\n\n%s'%(fileGet(self._infoPath), d, dataBuilded)
+                     dataBuilded='%s\n! Updated: %s\n\n%s'%(fileGet(self._infoPath), self.timestamp(), dataBuilded)
                      print '   Updating source..'
                      fileWrite(self._dataPath, data)
                      print '   Updating output..'

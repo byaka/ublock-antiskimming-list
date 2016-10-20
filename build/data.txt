@@ -6,17 +6,18 @@
 ! Original post: https://gwillem.gitlab.io/2016/10/11/5900-online-stores-found-skimming/
 ! Sources: https://gitlab.com/gwillem/public-snippets/snippets/28813
 ! Support: https://github.com/byaka/ublock-antiskimming-list/issues
-! Updated: 2016-10-19 18:59:39
+! Updated: 2016-10-20 19:03:42
 
 ||00-lawyer.com^$document
 ||1010buybuy.com^$document
+||123natural.ro^$document
 ||12pounds.org^$document
 ||12v-auto.com.ua^$document
 ||14kgoldteeth.com^$document
-||16hai.com^$document
 ||1800shopnet.com^$document
 ||19seventy7cosmetics.com^$document
 ||1adisplay.com^$document
+||1buy1deal.com^$document
 ||1gmgold.com^$document
 ||1obd.com^$document
 ||1stchoicegarage.com^$document
@@ -25,7 +26,6 @@
 ||21gradi.com^$document
 ||24hrsdeals.com^$document
 ||24owlshop.com^$document
-||28xboutique.com.br^$document
 ||2for1suits.com^$document
 ||2laser3d.com^$document
 ||2latintours.com^$document
@@ -35,12 +35,12 @@
 ||303sc.es^$document
 ||350marked.no^$document
 ||360-vr.pl^$document
+||365anyshop.com^$document
 ||365medicali.it^$document
 ||3d-agency-store.com^$document
 ||3dfilamentum.com^$document
 ||3dresses.com^$document
 ||3emmecomfort.it^$document
-||3minutelashes.co.uk^$document
 ||3qpharmacy.com^$document
 ||411bestbuys.ca^$document
 ||49er-gold.com^$document
@@ -53,7 +53,6 @@
 ||4wallsretailers.com^$document
 ||51wraps.com^$document
 ||5280firearms.com^$document
-||5thavenuedog.com^$document
 ||6000ad.co.uk^$document
 ||64crafts.com^$document
 ||6lenovo.com^$document
@@ -78,7 +77,6 @@
 ||aba-tech.com^$document
 ||abaj.co.uk^$document
 ||abbasfurnish.com^$document
-||abbeyartstone.co.uk^$document
 ||abbigliamentomoto.net^$document
 ||abc-markenvertrieb.de^$document
 ||abcomp.com.br^$document
@@ -95,6 +93,7 @@
 ||accesoriosmodela.com^$document
 ||accessorieswholesale.com.au^$document
 ||accessorimotocross.it^$document
+||accumegastore.nl^$document
 ||acdigital2015.com^$document
 ||ace-decor.co.uk^$document
 ||acecaskets.com^$document
@@ -107,16 +106,15 @@
 ||aciadonotebook.com.br^$document
 ||actions-nuisibles-boutique.com^$document
 ||actiontype.com^$document
-||actiumplus.dk^$document
 ||activemedics.com^$document
 ||actvidahealth.com^$document
-||adaptek.in^$document
 ||adashopfittings.co.uk^$document
 ||adbutter.pl^$document
 ||adbuyba.com^$document
 ||adbuyku.com^$document
 ||adckuwait.com^$document
 ||addhiprice.com^$document
+||adealsky.com^$document
 ||adejgsm.com^$document
 ||adlerpolo.hu^$document
 ||adleyannes.com^$document
@@ -163,8 +161,6 @@
 ||alarmprojekt.com.pl^$document
 ||alcoholdelivery.sg^$document
 ||aleaalea.ro^$document
-||alezabawki.co^$document
-||alezabawki.pl^$document
 ||alfaadventure.com.br^$document
 ||alienpos.com^$document
 ||alijda.com^$document
@@ -206,7 +202,6 @@
 ||americansnipers.org^$document
 ||americantourister.com.au^$document
 ||americanwineclub.se^$document
-||amoriforkids.nl^$document
 ||amovee.com^$document
 ||amp.unidevtech.com^$document
 ||ampedhybrid.com^$document
@@ -238,7 +233,7 @@
 ||antoinekaram.com^$document
 ||antonioboutique.com^$document
 ||antonykovis.com^$document
-||antpump.com^$document
+||anyscool.com^$document
 ||anythingdance.com.au^$document
 ||anytimegrocery.ca^$document
 ||anztc.com^$document
@@ -246,7 +241,6 @@
 ||aowlet.com^$document
 ||apacwines.com^$document
 ||apanaastore.com^$document
-||apbags.com^$document
 ||apeconline.com.br^$document
 ||apex-emovendollc.netdna-ssl.com^$document
 ||apex.emovendollc.netdna-cdn.com^$document
@@ -254,9 +248,7 @@
 ||apexnpm.com^$document
 ||apexsupplies.co.uk^$document
 ||apgermany.de^$document
-||apjewelrys.com^$document
 ||apkawasher.com^$document
-||apmkbags.com^$document
 ||apmotopart.com^$document
 ||apoiomilitar.com.br^$document
 ||app.stokkly.com^$document
@@ -265,7 +257,6 @@
 ||applepark.com^$document
 ||applianceworldonline.com^$document
 ||applika.es^$document
-||apuliapools.co.uk^$document
 ||aquakoi.co.uk^$document
 ||aqualabtechnologies.com^$document
 ||aqualinehottubs.co.uk^$document
@@ -273,7 +264,6 @@
 ||aquatixsportbottles.com^$document
 ||arabiancollections.co.uk^$document
 ||araiba3.com^$document
-||arasca.ro^$document
 ||arche.co.nz^$document
 ||archhardware.net^$document
 ||archimedeseguso.com^$document
@@ -284,10 +274,8 @@
 ||armen_shop.sega.pp.ua^$document
 ||armorallessentials.com^$document
 ||aromadella.com^$document
-||aromatherapyassociates.com.au^$document
 ||aroniawelt24.de^$document
 ||arriflesupply.com^$document
-||arrowandbeast.com^$document
 ||arscoin.com^$document
 ||arsphoebea.ru^$document
 ||art-pak.pl^$document
@@ -302,6 +290,7 @@
 ||articulatedtruckparts.com^$document
 ||artilec.cl^$document
 ||artstoneinstock.co.uk^$document
+||asensual.com.br^$document
 ||ashijewellery.com^$document
 ||ashmidiamonds.com^$document
 ||asianartexports.com^$document
@@ -323,7 +312,6 @@
 ||atomicathletic.com^$document
 ||atomlongboards.com^$document
 ||audiologix.ca^$document
-||audiomag.ro^$document
 ||audiporscheparts.com^$document
 ||aujjessa.com^$document
 ||aura.co.rs^$document
@@ -335,7 +323,6 @@
 ||authenticfragrancecorner.com^$document
 ||auto-service.kiev.ua^$document
 ||autobodypartsnow.com^$document
-||autodrainvalves.com^$document
 ||autoelectricsolution.ca^$document
 ||autopoetsen.com^$document
 ||autorecambiosgonzalez.com^$document
@@ -429,7 +416,9 @@
 ||baths4u.co.uk^$document
 ||bathtubbrewliquid.com^$document
 ||batt.gr^$document
+||batteriemegastore.fr^$document
 ||batteryhome.in^$document
+||batterymegastore.co.uk^$document
 ||baumspastries.com^$document
 ||bawree.com^$document
 ||baylissrugs.com^$document
@@ -454,7 +443,6 @@
 ||beaunics.com^$document
 ||beautifulskinco.com^$document
 ||beautyasia.com.hk^$document
-||beautybakery.co.uk^$document
 ||beautyblingers.com^$document
 ||beautylacewigs.com^$document
 ||beautylinestore.com^$document
@@ -464,7 +452,6 @@
 ||beauvilleclothing.com^$document
 ||bebe-blanc.com^$document
 ||becheruart.com^$document
-||bedkingdom.co.uk^$document
 ||bedreleker.no^$document
 ||beelineadvertisingumbrellas.co.uk^$document
 ||beerhkite.com^$document
@@ -500,12 +487,9 @@
 ||betting-online-odds.com^$document
 ||beyond-i.com^$document
 ||bezdine.com^$document
-||bezooe.com^$document
 ||bharatpotteries.com^$document
 ||bhstore.in^$document
 ||bibac.expowebshop.com^$document
-||bicimoto.com.br^$document
-||bicimotos.com.br^$document
 ||bigartesanato.com.br^$document
 ||bigcheckstore.com^$document
 ||bigfender.com^$document
@@ -527,7 +511,6 @@
 ||biosaludnatura.com^$document
 ||biotechrabbit.com^$document
 ||birdcageworld.com^$document
-||birdoo.co.uk^$document
 ||birthstone.diamondx.com^$document
 ||bisonlife.com^$document
 ||bitfumo.it^$document
@@ -539,9 +522,6 @@
 ||blackbeandesigns.com.au^$document
 ||blackmarketantiques.com^$document
 ||blancfreres-confection-linge-eponge.com^$document
-||blastzone.com^$document
-||blastzonecanada.com^$document
-||blastzonecommercial.com^$document
 ||blessindoelectric.com^$document
 ||blimburnseeds.com^$document
 ||blineproducts.com^$document
@@ -558,8 +538,10 @@
 ||blueoxexpress.com^$document
 ||blueseasaquariums.com^$document
 ||bluetek.pl^$document
+||bluewaveprinting.com^$document
 ||blumelife.co^$document
 ||bluntpower.com^$document
+||blushhour-shop.de^$document
 ||bnamade4trade.com^$document
 ||bnebacksupport.com.au^$document
 ||bnetcentric.co.uk^$document
@@ -579,7 +561,6 @@
 ||bodyplusspirit.com^$document
 ||bodyprosupplements.com.au^$document
 ||bodysterone.com^$document
-||boerenbont.de^$document
 ||bohr-schleifmittelwerk.com^$document
 ||bompie.com.ar^$document
 ||bonbouquet.com^$document
@@ -593,7 +574,6 @@
 ||bookmyrasoi.com^$document
 ||bookshopkart.com^$document
 ||booksizzler.com^$document
-||booksnclicks.com^$document
 ||boombeats.com.au^$document
 ||boomsavings.com^$document
 ||bordersunlimited.com^$document
@@ -623,7 +603,6 @@
 ||branded-tools.co.uk^$document
 ||branded-umbrellas.co.uk^$document
 ||brandedusbdrive.com^$document
-||brandit-bandit.co.uk^$document
 ||brandwear.co.nz^$document
 ||brandwhoo.communiststate.co.uk^$document
 ||brandymelville.co.uk^$document
@@ -636,6 +615,7 @@
 ||brazstore.com^$document
 ||breedfavorites.com^$document
 ||brella.com.au^$document
+||brellas.co.uk^$document
 ||brenocar.com.br^$document
 ||brickme.ru^$document
 ||bridalinc.co.za^$document
@@ -671,7 +651,6 @@
 ||builderbooks.com^$document
 ||buildmat.com.au^$document
 ||bulkfashionjewelry.com^$document
-||bulldogexpoanddecor.com^$document
 ||bumperplates.com^$document
 ||bumpyphoto.com^$document
 ||bunkerguitars.com^$document
@@ -686,16 +665,15 @@
 ||businesswithcards.com.au^$document
 ||butsudan.com^$document
 ||butterflymusic.it^$document
-||buy-umbrellas.com^$document
 ||buyalotofthings.com^$document
 ||buyashiningstar.com^$document
-||buyaswimmingpool.co.uk^$document
 ||buyershub.co.uk^$document
 ||buyfromgallery.com^$document
 ||buygoodsonline.com.au^$document
 ||buyla-brasiliana.com^$document
 ||buymars.com^$document
 ||buymeback.com^$document
+||buymusli.com^$document
 ||buynext.co.uk^$document
 ||buyoptic.co.il^$document
 ||buypowerplate.co.uk^$document
@@ -718,15 +696,15 @@
 ||cafeketab.ir^$document
 ||cafemezza.ie^$document
 ||cakes-world.co.uk^$document
-||caldaiemurali.it^$document
 ||calleencordero.com^$document
-||callowayhouse.com^$document
+||caloptix.net^$document
 ||caloriferestocuri.ro^$document
 ||cambiofiltro.it^$document
 ||cameotrading.com^$document
 ||camera-shop.co.uk^$document
 ||cameraparts.com.br^$document
 ||camery.pl^$document
+||camisadobem.com^$document
 ||camobluu.com^$document
 ||campbellcreations.co.uk^$document
 ||campomagro.net^$document
@@ -737,13 +715,11 @@
 ||canadaeoutlet.com^$document
 ||canadasphotography.ca^$document
 ||cancerdiagnostics.com^$document
-||candlelight.co.uk^$document
 ||canefele.com^$document
 ||cangoofamilybike.com^$document
 ||cangoofamilybike.de^$document
 ||cangoofamilybike.dk^$document
 ||canteletentrentals.com^$document
-||canvart.fi^$document
 ||cap-sac.com^$document
 ||cap-z.com.au^$document
 ||caprasoutdoors.com^$document
@@ -752,8 +728,6 @@
 ||carameldoha.com^$document
 ||carappstore.co.uk^$document
 ||caravanrvparts.com.au^$document
-||carbonocarenagem.com^$document
-||carbony.nl^$document
 ||cardiniaclub.com.au^$document
 ||cardiofrequencemetre.net^$document
 ||cards-ideas.com^$document
@@ -764,6 +738,7 @@
 ||carncompany.com^$document
 ||carneavila.com^$document
 ||carniplants.eu^$document
+||carnivalbkk.com^$document
 ||carpetlive.com^$document
 ||carpetlord.co.uk^$document
 ||carputer-shop.co.uk^$document
@@ -836,11 +811,11 @@
 ||chaneco-sport.staging-toxiccreative.co.uk^$document
 ||chaneco.staging-toxiccreative.co.uk^$document
 ||chanteurdesigns.com^$document
-||char-my.com^$document
 ||characthair.de^$document
 ||charisma.buy-umbrellas.co.uk^$document
 ||charlotte-elisabeth.co.uk^$document
 ||charlottes-closet.com^$document
+||charme-et-delice.com^$document
 ||charmest.com^$document
 ||charminhobaby.com.br^$document
 ||charnel-instinct.fr^$document
@@ -881,8 +856,6 @@
 ||cigarheaven.com.au^$document
 ||cigarhumidors-online.com^$document
 ||cigarsmokes.com^$document
-||cinderellaz.com^$document
-||cindi.net.au^$document
 ||cintatex.co^$document
 ||circlegtractors-dev.com^$document
 ||ciscomaxx.com^$document
@@ -918,6 +891,7 @@
 ||co-caine.es^$document
 ||coast2coastlighting.com^$document
 ||cocoa777.com^$document
+||coffeein-store.com.ua^$document
 ||coirmattinguk.co.uk^$document
 ||coldstreamindustries.com^$document
 ||coldstreamoutdoor.com^$document
@@ -925,7 +899,6 @@
 ||coljeans.com^$document
 ||collection-place.com^$document
 ||collegecollection.co.nz^$document
-||colombiaregala.com^$document
 ||color-drip.com^$document
 ||coloradospice.com^$document
 ||coloradostandby.com^$document
@@ -978,7 +951,6 @@
 ||cornbornhuskers.com^$document
 ||cornerstonecan.org^$document
 ||cornerstonemanagementportal.com^$document
-||corporatesignatureumbrellas.co.uk^$document
 ||cosmetica-professionale.com^$document
 ||cosmeticspro.eu^$document
 ||cosmetix.nl^$document
@@ -998,7 +970,6 @@
 ||cozyasia.com.au^$document
 ||cpblossom.com.au^$document
 ||cplusresearch.com^$document
-||crackamite.com^$document
 ||craftholsters.com^$document
 ||craftsman-book.com^$document
 ||craftsorigin.com^$document
@@ -1049,6 +1020,7 @@
 ||cutbrand.com^$document
 ||cutguru.com^$document
 ||cuttlefishandcorals.com^$document
+||cuylas.com^$document
 ||cw-store.com^$document
 ||cycle-jersey.com^$document
 ||cynobird.com^$document
@@ -1057,7 +1029,6 @@
 ||d3w2dghjwh7ujb.cloudfront.net^$document
 ||dabigo.de^$document
 ||dabrowazkrakowa.pl^$document
-||dada-kocke.com^$document
 ||dadeko.de^$document
 ||dadspartysupplies.com.au^$document
 ||daedoitalia.it^$document
@@ -1090,7 +1061,6 @@
 ||davolio.it^$document
 ||dayoo.com.au^$document
 ||dayoo.specializedinstr.netdna-cdn.com^$document
-||daysole.com^$document
 ||dazzlemart.com^$document
 ||dben1m8w02ceo.cloudfront.net^$document
 ||dcdistro.com^$document
@@ -1105,7 +1075,6 @@
 ||dealight.co.uk^$document
 ||dealslane.pk^$document
 ||dealsontop.net^$document
-||dealssky.com^$document
 ||dealzzon.com^$document
 ||dearreader.frocksteady.com^$document
 ||debestestek.nl^$document
@@ -1134,8 +1103,10 @@
 ||dekoroyal.com.tr^$document
 ||deks-gel.co.uk^$document
 ||delcontebags.com^$document
+||delhiflowers.in^$document
 ||delhisoundstore.com^$document
 ||deli.cat^$document
+||delicategem.com^$document
 ||deliciasurpresasvovo.com.br^$document
 ||delightfoods.com^$document
 ||delisana.de^$document
@@ -1160,6 +1131,7 @@
 ||dermasolutions.com.br^$document
 ||dermatics.com^$document
 ||derrys.com^$document
+||desideri.pl^$document
 ||designerdogsbyjane.com^$document
 ||designerlouboutin.com^$document
 ||designrepublik.com^$document
@@ -1197,7 +1169,6 @@
 ||diamondslabcreated.com^$document
 ||diamondx.com^$document
 ||dickgordonsports.com^$document
-||didax.pl^$document
 ||dietaroma.fr^$document
 ||different2wear.com^$document
 ||differentdrop.com^$document
@@ -1245,7 +1216,6 @@
 ||divinaprotecao.com.br^$document
 ||diviseeuniformi.com^$document
 ||divodiva.eu^$document
-||diybrewing.com^$document
 ||diychassis.co.uk^$document
 ||diygreek.com^$document
 ||dj99lfznt8zx1.cloudfront.net^$document
@@ -1256,7 +1226,6 @@
 ||dmcmall.com^$document
 ||dngadgets.com^$document
 ||dnsmultiglobal.com^$document
-||dockerills.co.uk^$document
 ||doctomidea.com^$document
 ||doctormuscle.com^$document
 ||dodson-group.com^$document
@@ -1270,7 +1239,6 @@
 ||domo-comfort.com^$document
 ||dompetroff.com^$document
 ||dompetroff.fr^$document
-||doogeemobile.com^$document
 ||doornmore.com^$document
 ||doosanengineparts.com^$document
 ||dope-factory.com^$document
@@ -1371,11 +1339,12 @@
 ||easybeautyme.com^$document
 ||easycnc.net^$document
 ||easylabshop.com^$document
-||easymall.in^$document
 ||easyscentair.com^$document
+||easytrimplan.com^$document
 ||eateryexpress.biz^$document
 ||eatgrassfed.co.uk^$document
 ||ebanyo.net^$document
+||ebcasion.com^$document
 ||ebesthomeautomationsystem.com^$document
 ||ebolsasmk.com.br^$document
 ||ec2-52-88-108-72.us-west-2.compute.amazonaws.com^$document
@@ -1418,7 +1387,6 @@
 ||ekosher.com^$document
 ||ekotowel.com^$document
 ||el-descorche.com^$document
-||ela-sport.com^$document
 ||eladders.com^$document
 ||elaglam.com^$document
 ||elaglam.de^$document
@@ -1450,12 +1418,13 @@
 ||elitesup.com^$document
 ||elitetacticalboots.net^$document
 ||ella-juwelen.de^$document
+||ellaeco.com^$document
 ||elliottelectronicsupply.com^$document
 ||eloinformatica.com^$document
 ||eltoropharmacy.com^$document
+||elupcia.com^$document
 ||elxis.com.my^$document
 ||em0020.demo.emthemes.com^$document
-||emehwar.com^$document
 ||emelan.dk^$document
 ||emjones.to^$document
 ||emmybag.cn^$document
@@ -1493,8 +1462,6 @@
 ||erdoganlarbisiklet.com^$document
 ||ergoworks.com.sg^$document
 ||ericana.com^$document
-||eripiowear.com^$document
-||eripiowear.se^$document
 ||ernest-preiss.com^$document
 ||ernstbonert.de^$document
 ||erwinmueller.com.cn^$document
@@ -1502,7 +1469,6 @@
 ||esa-indo.com^$document
 ||esaty.sk^$document
 ||esgzone.onlinevisibility.netdna-cdn.com^$document
-||eshishin.co.uk^$document
 ||eshop.candis.sk^$document
 ||eshop.com.gr^$document
 ||eshop.htgrp.com.my^$document
@@ -1510,8 +1476,7 @@
 ||eshop.sarojtextiles.com^$document
 ||eshopnix.com^$document
 ||esiera.co.uk^$document
-||esl-shop.de^$document
-||espaldea.com^$document
+||espaceloveshop.com^$document
 ||espriart.com^$document
 ||esscentialcandles.com.au^$document
 ||esscosa.com^$document
@@ -1544,10 +1509,10 @@
 ||europrezzi.it^$document
 ||eurostyleyourlife.com^$document
 ||eurosurpluss.com^$document
-||eutechthailand.com^$document
 ||eveil-des-harmonies.com^$document
 ||eventts.co.uk^$document
 ||everlast.redfeet.com.br^$document
+||everplate.com^$document
 ||everstylish.com^$document
 ||evertechusa.com^$document
 ||everythingcanamcommander.com^$document
@@ -1587,7 +1552,6 @@
 ||ezbody.com^$document
 ||ezgun.net^$document
 ||ezionmarket.com^$document
-||ezoomshop.co.uk^$document
 ||ezslim.us^$document
 ||ezstyles.com^$document
 ||f1carbon.co.uk^$document
@@ -1617,11 +1581,13 @@
 ||fantastikashop.com^$document
 ||fantasycity.com.au^$document
 ||fantasymed.com^$document
+||fanttoe.com^$document
 ||fantya.com^$document
 ||fanyal.com^$document
 ||faradayozone.com^$document
 ||fareastlink.com^$document
 ||farmaciaanallusar.es^$document
+||farmaciarivasonline.com^$document
 ||farmaciavet.com.br^$document
 ||farmaciavictoriacaro.com^$document
 ||farmandpetoutlet.com^$document
@@ -1635,7 +1601,6 @@
 ||fashionxonline.com^$document
 ||fastfitbullbars.com.au^$document
 ||fastlya.com^$document
-||fastrackmusic.com^$document
 ||fathersonstore.com^$document
 ||faux.karmatechnologies.com.hk^$document
 ||fave-decor.com^$document
@@ -1669,8 +1634,6 @@
 ||filteright.com^$document
 ||finderskeypers.com.au^$document
 ||findstock-group.co.uk^$document
-||fine-luxure.com^$document
-||finearts.org.in^$document
 ||finestcigars.com^$document
 ||finishlineind.com^$document
 ||firecho.com^$document
@@ -1689,7 +1652,6 @@
 ||fixingsnw.co.uk^$document
 ||fiziocentrs.lv^$document
 ||flagcompany.co.uk^$document
-||flairbeds.co.uk^$document
 ||flashdrive.com.au^$document
 ||flashunlocks.com^$document
 ||flavorwest.com^$document
@@ -1719,7 +1681,6 @@
 ||forepin.com^$document
 ||foreseeonline.com^$document
 ||foreverfh.com^$document
-||forte.pw^$document
 ||forteshire.com^$document
 ||fortress4x4.com^$document
 ||fortusgroup.com.au^$document
@@ -1754,7 +1715,6 @@
 ||fresco.ro^$document
 ||frescoappliances.com^$document
 ||freshfragrance.com.au^$document
-||freshkitchen.ro^$document
 ||freshtodommot.com^$document
 ||friann.com.au^$document
 ||friendsdeal.co.uk^$document
@@ -1792,6 +1752,7 @@
 ||gamexs.in^$document
 ||gamworth.com.au^$document
 ||gaoaoaie-u.com^$document
+||gaovngroup.com^$document
 ||garanti.atmleri.com^$document
 ||garble.in^$document
 ||garciniacambogia.hk^$document
@@ -1799,7 +1760,6 @@
 ||gardenergear.com^$document
 ||gardenjojo.com^$document
 ||garnetandgold.com^$document
-||garrards-timber.co.uk^$document
 ||garrettleight.com^$document
 ||garybrownsteinjewelry.com^$document
 ||gas-depot.com^$document
@@ -1809,7 +1769,6 @@
 ||gatesterapid.ro^$document
 ||gatsbylady.com^$document
 ||gcf.magetrend.com^$document
-||gearpump.in^$document
 ||ged-event.com^$document
 ||gee-kidz.com^$document
 ||gemandjewelleryonline.com^$document
@@ -1818,12 +1777,10 @@
 ||gencostore.com^$document
 ||genegobio.com^$document
 ||generalsystems.ro^$document
-||genezimuebles.com.mx^$document
 ||genpet.org^$document
 ||geppefaio.com^$document
-||gescher-tischdecken.de^$document
 ||getbottledup.com^$document
-||getdancewear.com^$document
+||getxtrapower.com^$document
 ||ghdeal.de^$document
 ||ghdeal.es^$document
 ||ghdeal.fr^$document
@@ -1843,10 +1800,11 @@
 ||giuliamarani.com^$document
 ||giveawaysandpremiums.com^$document
 ||glad.com.ua^$document
-||gladiadores.com.br^$document
+||glamtouch.com.bd^$document
 ||glasbilder-wandbilder.de^$document
 ||glassforyou.nl^$document
 ||glen-isla.co.uk^$document
+||glitzglams.com^$document
 ||globalbabybrands.com^$document
 ||globaldietonline.com^$document
 ||globalim.linuxpl.info^$document
@@ -1873,7 +1831,6 @@
 ||goldscythia.com^$document
 ||goldspla.nextmp.net^$document
 ||goldsplaques.com^$document
-||golf-haus.ch^$document
 ||golfaurasg.com^$document
 ||golfbygolfing.se^$document
 ||golfteetimes.dk^$document
@@ -1882,6 +1839,7 @@
 ||goodbar.co.il^$document
 ||goodgameshop.nl^$document
 ||goodmediadvds.net^$document
+||goodmedicine.co.uk^$document
 ||goodwillbeauty.msithost.com^$document
 ||goodyear.heych.com.php54-2.ord1-1.websitetestlink.com^$document
 ||googleandroidtv.ca^$document
@@ -1893,10 +1851,10 @@
 ||gotasdeprazer.com.br^$document
 ||gotfashions.com^$document
 ||gothcoffee.com^$document
+||gotorandys.com^$document
 ||gotstock.com.au^$document
 ||gotstock.resultspage.com^$document
 ||govce.net^$document
-||goyaperfumaria.com.br^$document
 ||grabitcase.com^$document
 ||grace4u.eu^$document
 ||graceandfavouronline.co.uk^$document
@@ -1929,11 +1887,8 @@
 ||gregornd.com^$document
 ||grillgrate.co.uk^$document
 ||gro-kart.com^$document
-||groenevoeding.nl^$document
 ||gromaudio.co.uk^$document
 ||gromaudio.uk^$document
-||grosveld.nl^$document
-||grosveldmuziek.nl^$document
 ||ground-based.com^$document
 ||groundcare-solutions.co.uk^$document
 ||grovemark.com^$document
@@ -1983,6 +1938,7 @@
 ||hangmattaland.se^$document
 ||hangwan.com.hk^$document
 ||hanoma.ru^$document
+||hanumandarshanyantra.com^$document
 ||happybabes.com.au^$document
 ||happybus.it^$document
 ||harasranchodaserra.com.br^$document
@@ -1994,10 +1950,9 @@
 ||haseenaboutique.co.uk^$document
 ||hatari.ae^$document
 ||hatsay.com^$document
-||hatsbank.com^$document
-||hatsfans.com^$document
 ||hattermountainjewelry.com^$document
 ||hattonbespoke.com^$document
+||hcmarketplace.com^$document
 ||hd-power.de^$document
 ||hdaudiosystem.com^$document
 ||headcook.co.uk^$document
@@ -2011,6 +1966,7 @@
 ||healthylifeplus.net^$document
 ||hearthandgrill.com^$document
 ||heavenlyfeet.co.uk^$document
+||hebertmusique.com^$document
 ||heelsexy.com^$document
 ||heftronic.eu^$document
 ||hegoods.com^$document
@@ -2051,9 +2007,6 @@
 ||holity.fr^$document
 ||hollandplastics.co.uk^$document
 ||holylandirect.com^$document
-||holystuff.pl^$document
-||holzverbindungstechnik.com^$document
-||homecontrolstore.nl^$document
 ||homefabricsandtrims.com^$document
 ||homefurnitureandpatio.com^$document
 ||homefurnituretrading.co.uk^$document
@@ -2077,6 +2030,7 @@
 ||hookahaustralia.com.au^$document
 ||horayzen.com^$document
 ||horse.onestopequineshop.com^$document
+||hostpinger.com^$document
 ||hotandsexy.fr^$document
 ||hotmakeup.com.br^$document
 ||hotnstylish.co.uk^$document
@@ -2086,14 +2040,12 @@
 ||hourglasslilly.com^$document
 ||houseofcaju.com.br^$document
 ||houseofflowers.in^$document
-||hpmart.in^$document
 ||hrsdirect.com^$document
 ||htsurveying.com^$document
 ||huarencun.com^$document
 ||huarenstore.com^$document
 ||hugbunadarsetrid.is^$document
 ||hugdiy.com^$document
-||hummer-bicikli.com^$document
 ||hungrikya.com^$document
 ||hunki-dori.com^$document
 ||huronmedia.com^$document
@@ -2102,11 +2054,7 @@
 ||hvost-rusalki.ru^$document
 ||hvtg.com^$document
 ||hvtools.com^$document
-||hydestop.com^$document
-||hydraulic-pneumatic.in^$document
 ||hydraulicpowerpack.com^$document
-||hydraulicseamlesstube.com^$document
-||hydraulictankaccessories.com^$document
 ||hydro-home.fr^$document
 ||hypercom.sg^$document
 ||i-am-mug.com^$document
@@ -2126,6 +2074,7 @@
 ||icebonbon.com^$document
 ||icecrave.com^$document
 ||iclothing4fashion.co.uk^$document
+||icon-trading.net^$document
 ||iconicparts.com^$document
 ||icoo-tablet.com^$document
 ||icut.rocks^$document
@@ -2162,7 +2111,6 @@
 ||illumigreat.com^$document
 ||ilparadisodelsouvenir.com^$document
 ||ilybean.com^$document
-||imagento.nl^$document
 ||imara.in^$document
 ||imart.deals^$document
 ||imartgine.com^$document
@@ -2190,6 +2138,7 @@
 ||indikala.com^$document
 ||indioproducts.com^$document
 ||indoparamotor.com^$document
+||indorug.com^$document
 ||industrialmatsuk.co.uk^$document
 ||industrialpc-supplier.com^$document
 ||industrykart.com^$document
@@ -2243,7 +2192,6 @@
 ||isaboutique.com.hk^$document
 ||ishop-ghana.com^$document
 ||ishopnz.com^$document
-||islamicshop.in^$document
 ||istickonline.com^$document
 ||it4y.com.ua^$document
 ||italianpens.com^$document
@@ -2251,7 +2199,6 @@
 ||italmodafurniture.com^$document
 ||italqualityfood.com^$document
 ||itap2buy.com^$document
-||ithacacoffee.com^$document
 ||itmteknoloji.com^$document
 ||itswheyeasy.com^$document
 ||iviewdata.com^$document
@@ -2268,7 +2215,6 @@
 ||jachtkledingonline.nl^$document
 ||jadelingerie.fr^$document
 ||jadelingerie.net^$document
-||james-chambers.co.uk^$document
 ||jameslakeland.net^$document
 ||jamrozik-cardesign.nl^$document
 ||jamware.co.nz^$document
@@ -2281,9 +2227,7 @@
 ||jbqav.com^$document
 ||jcarvey.com^$document
 ||jcmmode.com^$document
-||jcoproducts.com^$document
 ||jd-distributors.com^$document
-||jdjerseys.com^$document
 ||jdwatches.com^$document
 ||jeejeestyle.com^$document
 ||jehub.com^$document
@@ -2333,17 +2277,16 @@
 ||judydesign.com^$document
 ||juegaconmigo.es^$document
 ||juiceup.com.au^$document
+||jumboo.com.ua^$document
 ||jumbu.com.au^$document
+||jumeirahroad.com^$document
 ||jumpcourse.com^$document
 ||jungle-eyewear.com^$document
 ||jupitershop.com^$document
 ||justbeautiful-cosmetics.de^$document
 ||justbeautifulhair.de^$document
 ||justcarebeauty.co.uk^$document
-||justcarepodiatry.co.uk^$document
 ||justdressmeup.it^$document
-||justecarbone.com^$document
-||justemoto.com^$document
 ||justformesewing.com^$document
 ||justskitubes.com^$document
 ||justspraypaints.co.uk^$document
@@ -2358,18 +2301,15 @@
 ||kamagrakaufen.eu^$document
 ||kambalwala.com^$document
 ||kamera-360.pl^$document
-||kamerynakask.pl^$document
 ||kamushki.com.ua^$document
 ||kanecontracts.co.uk^$document
 ||kansai-special.co.uk^$document
 ||kappersschaaronline.nl^$document
 ||karactermania.eu^$document
-||karatgem.com^$document
 ||karisfrio.com^$document
 ||karity.com^$document
 ||karransinks.co.uk^$document
 ||kartbin.com^$document
-||kartbullet.com^$document
 ||kartuseintonerji.si^$document
 ||kawaya.com^$document
 ||kaygoss.com^$document
@@ -2380,7 +2320,6 @@
 ||kellymadisonstore.com^$document
 ||kenpowertools.co.za^$document
 ||kenrandfurniture.co.uk^$document
-||kettingblad.nl^$document
 ||khabardaar.com^$document
 ||khmerdeals.com^$document
 ||khodalgroup.com^$document
@@ -2393,6 +2332,7 @@
 ||kidsatvparts.com^$document
 ||kiinde.com.au^$document
 ||kikisboutique.com^$document
+||kikoys.com.br^$document
 ||kildevanddk.dk^$document
 ||kildevandmedlogo.dk^$document
 ||killerkart.com^$document
@@ -2446,7 +2386,6 @@
 ||kretafilc.hu^$document
 ||krowne.com^$document
 ||kryanco.com^$document
-||ksdurlabhji.com^$document
 ||ksiegarnia.ca^$document
 ||kstore.vn^$document
 ||ktmbikeindustries.com^$document
@@ -2461,10 +2400,8 @@
 ||kwikydeco.com^$document
 ||l2t-artes.com.br^$document
 ||la-roche-en-terre.com^$document
-||labebe.us^$document
 ||labellapetspa.com^$document
 ||labelle-karlsson.se^$document
-||labophoto.com^$document
 ||laboratoriosjulio.com^$document
 ||labsupplies.de^$document
 ||labtechseating.com^$document
@@ -2476,7 +2413,6 @@
 ||lady7.de^$document
 ||ladybeard.jp^$document
 ||ladyc.fr^$document
-||ladyqueen.com^$document
 ||ladysuits.com^$document
 ||laeuropea.com.mx^$document
 ||lagra.de^$document
@@ -2509,7 +2445,6 @@
 ||lazybeds.co.uk^$document
 ||lazzarinidolciumi.it^$document
 ||lcd-wall-brackets.co.uk^$document
-||lcdscreen.com^$document
 ||ld-arredamento.it^$document
 ||leadasy.com^$document
 ||lean-production-shop.de^$document
@@ -2537,6 +2472,7 @@
 ||lelogisbranche.fr^$document
 ||lemcotackle.co.uk^$document
 ||lemedicament.fr^$document
+||lempiredessens.fr^$document
 ||lens-lab.co.uk^$document
 ||lentieocchiali.net^$document
 ||lenztek.com^$document
@@ -2546,6 +2482,7 @@
 ||lesbebes.ca^$document
 ||lescavaliers.co.uk^$document
 ||lesgenetsdor.com^$document
+||lesplaisirsdelili.com^$document
 ||letempleducharme.com^$document
 ||leticiaerroz.com.ar^$document
 ||letogo.de^$document
@@ -2626,7 +2563,6 @@
 ||loja.ferathi.com.br^$document
 ||loja.infopress.com.br^$document
 ||loja.ligahq.com.br^$document
-||loja.meubodyboard.com^$document
 ||loja.mundoexistencial.com^$document
 ||loja.sollas.com.br^$document
 ||loja.sovideoke.com.br^$document
@@ -2654,6 +2590,7 @@
 ||lookatmeshirts.com^$document
 ||loopday.com.br^$document
 ||loragene.com^$document
+||lordswear.com^$document
 ||lorealme-staffsales.com^$document
 ||lorraineperfumes.com^$document
 ||love-my-pearls.com^$document
@@ -2724,6 +2661,7 @@
 ||mail.cigarhumidors-online.com^$document
 ||mail.mysfashion.com^$document
 ||mailorderpharmacy.com.au^$document
+||maiscarimbos.com.br^$document
 ||makemeamazing.co.uk^$document
 ||makeyourodyssey.com^$document
 ||makwik.com^$document
@@ -2739,16 +2677,19 @@
 ||mangla.mantragrid.com^$document
 ||manglam.com^$document
 ||mangobikes.me^$document
+||manmadediamondsusa.com^$document
 ||manshop-th.com^$document
 ||manticorearms.com^$document
 ||mantratantrayantra.com^$document
 ||mao.dev.rtslabs.com^$document
 ||mapcycle.com^$document
 ||maquinamotors.com^$document
+||marathwadascales.in^$document
 ||marenja.com^$document
 ||margoff.com^$document
 ||mariajond.com^$document
 ||maritegourmet.com^$document
+||marjancreations.com^$document
 ||market.kowafresh.com^$document
 ||markndeal.com^$document
 ||marspackusa.com^$document
@@ -2776,9 +2717,9 @@
 ||mayflyshop.com^$document
 ||maymeenth.com^$document
 ||mbellishjewelry.com^$document
-||mc-store.ua^$document
 ||mc2saintbarth.com^$document
 ||mccboutlet.com^$document
+||mcdavidusa.com^$document
 ||mcgeschenk.at^$document
 ||mdbdevweb.com^$document
 ||mddermatics.com^$document
@@ -2804,7 +2745,6 @@
 ||medicarehealth.co.uk^$document
 ||medicbonus.com^$document
 ||medikont.si^$document
-||medimax-workwear.com^$document
 ||medoptic.at^$document
 ||medovmir.ru^$document
 ||mefresh.sg^$document
@@ -2833,22 +2773,17 @@
 ||merch.little-dragon.net^$document
 ||mercure-wine.de^$document
 ||mesetacoffeeuk.com^$document
-||mestredosconcursos.com.br^$document
 ||metagenics.professionalsupplementsclinic.com^$document
 ||metalbaby.co.nz^$document
 ||meterpresent.com^$document
-||metrica.it^$document
 ||mexbusa.com^$document
 ||mfaumbrellas.co.uk^$document
 ||mftc-xx7w.accessdomain.com^$document
-||mgmaudio.ch^$document
 ||mi-alma.com^$document
-||miabellalingerie.com^$document
 ||mibeo.eu^$document
 ||micabeauty.com.au^$document
 ||microfiberklud.com^$document
 ||microframecorp.com^$document
-||microsettools.co.uk^$document
 ||midene.com^$document
 ||midlandcomponents.co.uk^$document
 ||migausa.com^$document
@@ -2861,7 +2796,6 @@
 ||milow.frocksteady.com^$document
 ||milwaukeemarble.com^$document
 ||mindfield-shop.com^$document
-||mini-miser.com^$document
 ||miniboxes3.com^$document
 ||minifeetshoes.com^$document
 ||minihouse8888.com^$document
@@ -2920,6 +2854,7 @@
 ||monel.si^$document
 ||monelrack.com^$document
 ||monkmarketingumbrellas.co.uk^$document
+||monplayxsircoquin.fr^$document
 ||more.diamondx.com^$document
 ||moris-bicikli.com^$document
 ||morrisonshop.com^$document
@@ -2930,7 +2865,6 @@
 ||motarnico.com^$document
 ||motherschoice.com.au^$document
 ||moto-passion.co.uk^$document
-||moto-trailers.com^$document
 ||motorbookworld.com.au^$document
 ||motordiag.fr^$document
 ||motorisedelectricblinds.co.uk^$document
@@ -3022,9 +2956,11 @@
 ||namaskaraustralia.com.au^$document
 ||namestylish.com^$document
 ||nandndesign.com^$document
+||nathansports.com^$document
 ||natherbs.com^$document
 ||nationalcargocontrol.com^$document
 ||nationaldealcentre.com.au^$document
+||nationalsail.com^$document
 ||nationproduct.com^$document
 ||naturaleeco.com.br^$document
 ||naturaleitaliano.it^$document
@@ -3041,8 +2977,6 @@
 ||nautical-books.co.uk^$document
 ||navetrade.com^$document
 ||navissalon.com^$document
-||navygear.com^$document
-||nbsbio.co.uk^$document
 ||ncsmokehouse.com^$document
 ||ndtt.com^$document
 ||necklaces.diamondx.com^$document
@@ -3085,7 +3019,6 @@
 ||nirmalsafetycentre.com^$document
 ||nissanapps.co.uk^$document
 ||njmodern.com^$document
-||nmwilliams.co.uk^$document
 ||no1parts.com^$document
 ||node01.zyloo.com^$document
 ||noirebeautyafrica.com^$document
@@ -3096,9 +3029,6 @@
 ||northwoodscandy.com^$document
 ||nosdesirssecrets.com^$document
 ||nosignofdesign.com^$document
-||nosolomoto.com^$document
-||nosolomoto.com.ar^$document
-||nosolomoto.eu^$document
 ||nostrano-ukumbrellas.co.uk^$document
 ||notafiliachuchi.com^$document
 ||notebookshop.com^$document
@@ -3106,7 +3036,9 @@
 ||notjustflowers.in^$document
 ||nouribeautybuy.com^$document
 ||novimag.ru^$document
+||novline-romania.com^$document
 ||noxmoda.com^$document
+||noxpiles.com^$document
 ||noyah.com^$document
 ||npctsb.ru^$document
 ||nramarti.com^$document
@@ -3116,8 +3048,6 @@
 ||nsew-moto.com^$document
 ||nsfsales.com^$document
 ||nuibyvickie.com^$document
-||nurkohlefaser.com^$document
-||nurmotorrad.com^$document
 ||nurserydecalsandmore.com^$document
 ||nurux-gel.be^$document
 ||nusmdest.com^$document
@@ -3134,7 +3064,6 @@
 ||obchod.guard7.cz^$document
 ||obchod.zahradnecentrumviglas.sk^$document
 ||obelixo.de^$document
-||octoplus.co.uk^$document
 ||odhniboutique.com^$document
 ||odprint.com.br^$document
 ||odysseed.nl^$document
@@ -3152,7 +3081,6 @@
 ||ogsystems.nl^$document
 ||oherron.com^$document
 ||ohineed.com^$document
-||ohostore.com^$document
 ||ohpomp.com^$document
 ||okbb2u.com^$document
 ||okmedpia.com^$document
@@ -3189,11 +3117,9 @@
 ||onlineoyuncak.com^$document
 ||onlineplus.reliconindia.com^$document
 ||onlineprintingenvy.com^$document
-||onlycarbon.eu^$document
 ||onlycellphone.com^$document
 ||onlydde.com^$document
 ||onlynaturalinc.com^$document
-||onlysport.com.ua^$document
 ||onsensecret.com^$document
 ||onway.gr^$document
 ||oohaccessories.com^$document
@@ -3236,19 +3162,18 @@
 ||overtherainbow-fancydress.co.uk^$document
 ||ovshop.com.ua^$document
 ||oxo.com^$document
-||ozfarmsupply.com.au^$document
 ||ozshoppingheaven.com.au^$document
+||ozvan.com.au^$document
 ||p2sdevworkserver.com^$document
 ||paapaafresh.com^$document
 ||paarfreuden.de^$document
 ||pacificonline.co.uk^$document
-||pack2rack.com^$document
 ||packnbag.com.au^$document
 ||packtex.co.uk^$document
 ||pactogo.com^$document
 ||pactronstore.com^$document
-||padzytoys.com^$document
 ||pageindustries.net^$document
+||paintrolls.com^$document
 ||paiyoujiplusslim.org^$document
 ||pakshop.eu^$document
 ||palace5ive.com^$document
@@ -3278,7 +3203,6 @@
 ||patachou.com^$document
 ||patana-chai.com^$document
 ||pathikwildlife.com^$document
-||patpichabead.com^$document
 ||patricitery.com^$document
 ||paulsencommunications.com^$document
 ||paulsmilkonline.co.uk^$document
@@ -3291,13 +3215,11 @@
 ||pdgshop.com^$document
 ||pducables.com^$document
 ||peacockstar.com^$document
-||peakbanner.com^$document
 ||pearl-earrings.diamondx.com^$document
 ||pearl-necklaces.diamondx.com^$document
 ||pedicurespasuperstore.com^$document
 ||pelosishop.com^$document
 ||peltro.com^$document
-||pendukemodels.co.uk^$document
 ||peopleforplants.com.au^$document
 ||peplinkthailand.com^$document
 ||pequenosechiques.com^$document
@@ -3320,23 +3242,16 @@
 ||petomania.com.au^$document
 ||petshopamarosbichos.com.br^$document
 ||petsorder.com.hk^$document
-||petsqueak.com^$document
 ||petsy.com.ua^$document
 ||pfiwestern.com^$document
 ||pharmahealth.com.pk^$document
-||pharmasana.co.uk^$document
-||pharmasana.ie^$document
-||pharmasana.net^$document
-||pharmasana.ru^$document
 ||pharmshop.sk^$document
 ||pherspray.com^$document
 ||pherx.com^$document
 ||phixdoctor.net^$document
 ||phoenix-paints.co.uk^$document
 ||phoenix.citymattresses.com^$document
-||pholonline.com^$document
 ||photofans.co.nz^$document
-||piccino-me.com^$document
 ||picknpeak.com^$document
 ||picteri.com^$document
 ||picturepod.me^$document
@@ -3352,11 +3267,9 @@
 ||pinospa.com^$document
 ||pioneerb2b.cespecialties.com^$document
 ||pisosdebancos-renovaria.com^$document
-||piumoto.com^$document
 ||pixelnomad.co.uk^$document
 ||pixelsgourmands.com^$document
 ||piyopiyo.co.uk^$document
-||pizza-forno.nl^$document
 ||pizzaboutique.fr^$document
 ||pizzaevropska.cz^$document
 ||pizzeria-beckhausen.de^$document
@@ -3366,13 +3279,11 @@
 ||planetheadwear.co.uk^$document
 ||planetvr.ru^$document
 ||plantarium.com.ua^$document
-||plantoysshop.com^$document
 ||plantshed.com^$document
 ||plasticasapiens.com^$document
 ||playac.com.au^$document
 ||plazahidayah.com^$document
 ||plazapinger.com^$document
-||plugetvous.com^$document
 ||plugypromotion.com^$document
 ||plumstedarms.com^$document
 ||pmsmassager.com^$document
@@ -3384,6 +3295,7 @@
 ||polaroidstage.com^$document
 ||polaroidsunglassstore.com^$document
 ||pole-position.fr^$document
+||polkuauto.com^$document
 ||pollinicasa.ru^$document
 ||polverinishop.com^$document
 ||polymerinnovations.com.au^$document
@@ -3412,11 +3324,10 @@
 ||preemiesuperstore.com^$document
 ||premierefirepits.com^$document
 ||premiumgift.ro^$document
-||premiumotors.com.br^$document
 ||preppics.org^$document
 ||pressotherm.de^$document
-||pressure-gauge.in^$document
 ||prestigetops.com.au^$document
+||prestoprint.ca^$document
 ||prettydots-store.com^$document
 ||pricedepot.com^$document
 ||priceguru.mu^$document
@@ -3442,6 +3353,7 @@
 ||prodart.nl^$document
 ||producertoolbox.com^$document
 ||productinf.com^$document
+||productmania.co.uk^$document
 ||products.ansmann.de^$document
 ||products.exministries.com^$document
 ||productstore.savaglobal.com^$document
@@ -3489,6 +3401,7 @@
 ||quadrocopterspecialist.com^$document
 ||qualityahcc.com^$document
 ||qualityeg.com^$document
+||qualityfires.co.uk^$document
 ||qualitysystemsonline.com^$document
 ||quantapac.com.au^$document
 ||quantum-wireless.com^$document
@@ -3510,7 +3423,7 @@
 ||rajikofficial.com^$document
 ||ramayanaprinting.com^$document
 ||ramsay-art.co.uk^$document
-||randomgourmet.uk^$document
+||randomsee.com^$document
 ||rangetool.com^$document
 ||rashiewaste.com^$document
 ||raspberrykids.com^$document
@@ -3520,7 +3433,6 @@
 ||razer.com.cy^$document
 ||razormarkets.com^$document
 ||rb-diamond.com^$document
-||rcdiamonds.com^$document
 ||rcmoon.authenticloud.net^$document
 ||rcp-shop.com^$document
 ||re-dyeclothing.com^$document
@@ -3529,31 +3441,27 @@
 ||real-materiaux.com^$document
 ||realfutureshop.com^$document
 ||realityrealtystore.com^$document
-||reallycheaprugs.com^$document
 ||realmarksports.com^$document
 ||realnutri.com.br^$document
 ||realworldimage.com^$document
 ||rebellesellier.com^$document
 ||rebellowines.com.au^$document
 ||rec-online.com.sg^$document
-||recicomp.in^$document
 ||reconnectedplanet.com^$document
 ||red-diamonds.diamondx.com^$document
 ||red-elements.com^$document
 ||redesign.american-candle.com^$document
 ||redlily.com^$document
-||redmark.nmwilliams.co.uk^$document
 ||redsisterblue.com^$document
 ||redsquarebox.com^$document
 ||redstarcosplay.net^$document
-||redsunbike.com^$document
 ||redwoodproducts.net^$document
 ||reeftigershop.com^$document
 ||refurbishedland.co.uk^$document
 ||refusebags.eu^$document
-||regaljewelershouston.com^$document
 ||regencyfan.com^$document
 ||rehvclothing.com^$document
+||reidascanecas.net.br^$document
 ||reig.pl^$document
 ||reignmart.com^$document
 ||reinventled.com^$document
@@ -3578,19 +3486,21 @@
 ||restaurantimage.com^$document
 ||restroompartitions.com^$document
 ||retroeyeworks.com^$document
+||returntosender.nl^$document
 ||rev9autosport.com^$document
 ||reviews.minibrick.net^$document
 ||revmaxconverters.com^$document
 ||rexerhverv.dk^$document
 ||rheingau.club^$document
-||rhinolocker.com^$document
 ||rhinoquarrysupplies.com^$document
 ||riachristiecollections.com^$document
 ||ricamare.com.ua^$document
 ||ricetechindia.com^$document
+||richcoreenzymes.com^$document
 ||rickysprocenter.com^$document
 ||rightemarketing.com^$document
 ||rimkhobfabooks.com^$document
+||ringfield.co.uk^$document
 ||rings.diamondx.com^$document
 ||riosrunning.com^$document
 ||risinggirlhair.com^$document
@@ -3600,21 +3510,17 @@
 ||rmitdeals.com^$document
 ||rmspuma.i95dev.com^$document
 ||rmswoodland.i95dev.com^$document
-||ro-piercing.gr^$document
 ||roadreadydrivingschooltx.com^$document
 ||roadsafetypromotions.co.uk^$document
-||roanshop.com^$document
 ||robisonmotorcycles.com^$document
 ||robotxpress.com^$document
 ||rocketcigars.com^$document
 ||rockethomes.in^$document
 ||rockonrubyclothing.com^$document
-||rockymountainbeergarden.com^$document
 ||rococodecor.com.au^$document
 ||rodial.digitalboutiquedev.co.uk^$document
 ||rogeriamarciacalcados.com.br^$document
 ||rohrverbindershop.de^$document
-||rokmen.com^$document
 ||rollingshop.it^$document
 ||romanoclothing.com^$document
 ||romelelectrical.com^$document
@@ -3639,7 +3545,6 @@
 ||royalhabanos.com^$document
 ||royalscooters.com^$document
 ||royalwholesalellc.com^$document
-||rozette.ro^$document
 ||rozmarin.be^$document
 ||rrcp.net^$document
 ||rs.novadiagnostica.com.br^$document
@@ -3655,7 +3560,6 @@
 ||rustichound.com^$document
 ||rusticweddings.ca^$document
 ||rustysoffroad.com^$document
-||rutbaa.com^$document
 ||rvalentim.com^$document
 ||rylees.ca^$document
 ||rylees.co.uk^$document
@@ -3717,7 +3621,7 @@
 ||seasoningfood.co.uk^$document
 ||secretdefille.com^$document
 ||secretflorist.co.uk^$document
-||seekunique.co.uk^$document
+||securitysuppliesdirect.co.uk^$document
 ||seesunart.com^$document
 ||segways.com^$document
 ||sekka.de^$document
@@ -3810,9 +3714,7 @@
 ||shop.hokus-pokus.com^$document
 ||shop.hotel-vistadelmar.com^$document
 ||shop.infectiousmusicuk.com^$document
-||shop.injoy.de^$document
 ||shop.inkfast.com.au^$document
-||shop.inlineconsulting.de^$document
 ||shop.intel-car.ru^$document
 ||shop.international-neighborhood.de^$document
 ||shop.it-communicationsltd.co.uk^$document
@@ -3872,14 +3774,12 @@
 ||shopeliteclub.com^$document
 ||shopen.gr^$document
 ||shopestv.com^$document
-||shopforspatrade.com^$document
 ||shophyson.com^$document
 ||shopingtimes.com^$document
 ||shopnclick.in^$document
 ||shopnghiasaigon.com^$document
 ||shoppicado.com^$document
 ||shopping.nooran.com^$document
-||shopping247.vn^$document
 ||shoppingat99.com^$document
 ||shoppinggola.com^$document
 ||shopplovers.com^$document
@@ -3897,7 +3797,6 @@
 ||showergrates.com^$document
 ||showoffyourwrist.com^$document
 ||shraddhasarees.com^$document
-||shreehari.co^$document
 ||shurhold.com^$document
 ||siambodycare.com^$document
 ||sickkjunctions.com^$document
@@ -3930,6 +3829,7 @@
 ||simplyofficefurniture.com.au^$document
 ||simvolvery.com^$document
 ||sinarhimalaya.com^$document
+||singthename.co.uk^$document
 ||singuladerm.nl^$document
 ||singyournameespana.com^$document
 ||sinsofsouthbeachjewelry.com^$document
@@ -3946,11 +3846,11 @@
 ||skin.healthspark.co.uk^$document
 ||skin.pt^$document
 ||skinbag.com.br^$document
-||skinfive5.com^$document
 ||skins-la.com^$document
 ||sklep.dussi.pl^$document
 ||sklepfc.pl^$document
 ||sklepyinternetowe24.eu^$document
+||skycarte.co.nz^$document
 ||skyliftquebec.com^$document
 ||sli-demo.com^$document
 ||sli-demo.resultspage.com^$document
@@ -3959,15 +3859,11 @@
 ||slimvera.com^$document
 ||slingmode.net^$document
 ||slumberbugs.co.uk^$document
-||smakelijkekost.nl^$document
-||smales.com.au^$document
-||smart4gwifi.com^$document
 ||smarta.ee^$document
 ||smartechoutdoors.com^$document
 ||smartex-bd.com^$document
 ||smartino.ru^$document
 ||smartnfancy.com^$document
-||smartphone-onderdeel.nl^$document
 ||smcleisure.co.uk^$document
 ||smiffys.com.au^$document
 ||smiffystrade.com.au^$document
@@ -3995,8 +3891,6 @@
 ||soleder.com^$document
 ||solihullsalesandlettings.com^$document
 ||solo-antiques.co.uk^$document
-||solocarbonio.com^$document
-||solocarbono.com^$document
 ||solocigars.com^$document
 ||solpacksoft.com^$document
 ||soltec-markisen.de^$document
@@ -4036,7 +3930,6 @@
 ||spendibenestore.it^$document
 ||speshome.it^$document
 ||spetacular.com^$document
-||spicesofindiagc.com.au^$document
 ||spielplatz-shop.net^$document
 ||spinadesign.co.uk^$document
 ||spiralankershop.de^$document
@@ -4054,8 +3947,6 @@
 ||sportssue.com^$document
 ||sportstimingsystems.co.uk^$document
 ||spotlightmusicstore.com^$document
-||spotlightrunners.com^$document
-||spotlightrunners.sourcebox.co.uk^$document
 ||spovo.com.br^$document
 ||spravnekrmivo.cz^$document
 ||spruceworkwear.co.uk^$document
@@ -4066,7 +3957,6 @@
 ||ssl.minibrick.net^$document
 ||sssuperstore.co.uk^$document
 ||st-erasmus.com^$document
-||stack-easy.com^$document
 ||stackinjection.com.au^$document
 ||stage.curdes.com^$document
 ||stage.magemania.com^$document
@@ -4086,7 +3976,6 @@
 ||steelpony.com^$document
 ||steigerbuisklem.be^$document
 ||steigerbuisklem.nl^$document
-||stellabellucci.de^$document
 ||stenagoshop.com^$document
 ||sterdicustom.com^$document
 ||sterlingoptics.com^$document
@@ -4096,10 +3985,8 @@
 ||stevesbmx.com^$document
 ||steviaworld.com^$document
 ||stickado.com.br^$document
-||stickerexpress.nl^$document
 ||stickerlab.co.uk^$document
 ||stickermag.com^$document
-||stile-vero.com^$document
 ||stilldragon.com^$document
 ||stillen.com^$document
 ||stitchdirect.com^$document
@@ -4112,6 +3999,7 @@
 ||store.anaturaldifference.com^$document
 ||store.ballstocancer.co.uk^$document
 ||store.bernellhydraulics.com^$document
+||store.blr.com^$document
 ||store.bluemerlestudio.com^$document
 ||store.bokwafitness.com^$document
 ||store.californiacondoguru.com^$document
@@ -4163,7 +4051,6 @@
 ||stormcomputershop.co.uk^$document
 ||strackindia.com^$document
 ||straie.com^$document
-||straptor.com.au^$document
 ||strcollectieshop.nl^$document
 ||strekoza.me^$document
 ||stripwinkeldumpie.nl^$document
@@ -4174,7 +4061,6 @@
 ||stscomputerparts.com^$document
 ||studioceizer.com^$document
 ||studiohairdepartment.com^$document
-||studiolx.com^$document
 ||studydiscount.com^$document
 ||sturdiguns.com^$document
 ||stvincentstore.com^$document
@@ -4184,16 +4070,14 @@
 ||stylefortune.com^$document
 ||stylegets.com^$document
 ||styleglee.com^$document
-||styleworx.co.uk^$document
-||styleworx.com^$document
 ||stylos-tampons.com^$document
 ||subastralinc.com^$document
 ||sube.net^$document
 ||sublicolores.es^$document
 ||suecaexpres.com^$document
+||sugarandspike.co.za^$document
 ||suis.co.uk^$document
 ||suitauthority.com^$document
-||suithot.com^$document
 ||suitsforme.com^$document
 ||suitsforme.hausewatchesgrou.netdna-cdn.com^$document
 ||suli-sl.com^$document
@@ -4244,15 +4128,12 @@
 ||swisscubancigars.fr^$document
 ||swisswatches.com^$document
 ||swmsweets.com^$document
-||swoopprint.com^$document
 ||sxsmobility.com^$document
 ||sydlertech.com^$document
 ||systemsnews.com^$document
 ||sytaz.com^$document
-||szynaka.pl^$document
 ||tabletdistributors.com^$document
 ||tablethrows.co.nz^$document
-||tablice.net^$document
 ||tacethno.com^$document
 ||tacticalsuperstore.net^$document
 ||tailoredkyt.com^$document
@@ -4264,7 +4145,6 @@
 ||tap-that.co.nz^$document
 ||tapisdecourse.org^$document
 ||tapstogo.co.uk^$document
-||tarelkina.com.ua^$document
 ||tassab.com^$document
 ||tatka-shop.com^$document
 ||taylorandng.com^$document
@@ -4288,9 +4168,9 @@
 ||tedalmondo.it^$document
 ||teedayusa.com^$document
 ||teentees.in^$document
+||telecestas.com.br^$document
 ||teletronusa.com^$document
 ||teleyol.com^$document
-||temperature-gauge.in^$document
 ||tempfence.co.uk^$document
 ||template2.allegroconsultants.com^$document
 ||templatekingdom.com^$document
@@ -4298,10 +4178,10 @@
 ||tendacn.ca^$document
 ||tennis-ua.com^$document
 ||tenshilondon.com^$document
-||tensmachineuk.com^$document
 ||tentastic.co.uk^$document
 ||teosline.it^$document
 ||tera.lk^$document
+||terras-sjop.nl^$document
 ||test.eltede.com^$document
 ||test.epicgreenhouses.com^$document
 ||test.piasofttoys.com^$document
@@ -4310,7 +4190,6 @@
 ||texntrade.co.uk^$document
 ||tfttools.com^$document
 ||thaielectricsupply.com^$document
-||thaiinsignia.com^$document
 ||thamizhbooks.com^$document
 ||thatoneshop.ca^$document
 ||the-kitty-shop.com^$document
@@ -4320,7 +4199,6 @@
 ||thebigtrophyshop.co.uk^$document
 ||thebluedeals.com^$document
 ||thebranders.com.au^$document
-||thebroguetrader.com^$document
 ||thebulbs.com^$document
 ||thebuzzexperience.com^$document
 ||thecafer.com^$document
@@ -4340,7 +4218,6 @@
 ||thegiftshoponline.net^$document
 ||thegioioto.com.vn^$document
 ||thegtcompany.co.uk^$document
-||thegymrevolution.co.uk^$document
 ||thehilemancollection.com^$document
 ||thehogfatherapparel.com^$document
 ||thehornit.com^$document
@@ -4360,8 +4237,10 @@
 ||thepinkcompany.ca^$document
 ||theplacex.com^$document
 ||thepreservationstation.com^$document
+||theprintsigns.com^$document
 ||thepropertyof.com^$document
 ||thequeen.co.in^$document
+||theseasidestyle.com^$document
 ||theseptember.com^$document
 ||thesgstore.com^$document
 ||thesneakerhunt.com^$document
@@ -4374,7 +4253,6 @@
 ||thevladsboutique.com^$document
 ||thewildpineapple.com^$document
 ||theye.co.uk^$document
-||thinkappliances.com^$document
 ||thinkpot.com^$document
 ||thiscutegirl.com^$document
 ||thomashenrytailors.com^$document
@@ -4413,8 +4291,6 @@
 ||tmarket.by^$document
 ||tmsteel.com.au^$document
 ||tnplgreenpal.in^$document
-||toaromasou.gr^$document
-||todaycomponents.com^$document
 ||tolbhav.com^$document
 ||tonerexpress.ca^$document
 ||toni-compressors.com^$document
@@ -4435,8 +4311,6 @@
 ||topgrain.in^$document
 ||topoutlet.hu^$document
 ||toppik.com.au^$document
-||topps.com^$document
-||toptime.sk^$document
 ||toptowertest.co.uk^$document
 ||topverkopen.nl^$document
 ||torchpack.com^$document
@@ -4450,7 +4324,6 @@
 ||tourist.sandbaghq.com^$document
 ||towellmattressuae.com^$document
 ||towingandtrailers.com^$document
-||toydiscovery.nl^$document
 ||toygift.com.cn^$document
 ||toysparadise.com.au^$document
 ||toyspuft.com^$document
@@ -4497,11 +4370,9 @@
 ||tsvetolina.ru^$document
 ||tttshirts.co.uk^$document
 ||tuartepop.com^$document
-||tuboflovecookies.com^$document
 ||tucargadorsolar.com^$document
 ||tucentrotecnologico.com^$document
 ||tufcrimp.com^$document
-||tufhose.in^$document
 ||tujuh.de^$document
 ||tumtummie.goecommercebaby.com^$document
 ||tuning-technic.com^$document
@@ -4515,8 +4386,6 @@
 ||turquoise.pk^$document
 ||turronesverdusirvent.com^$document
 ||turushopping.com^$document
-||turvakerroinstore.com^$document
-||turvastore.fi^$document
 ||tuventanadealuminio.com^$document
 ||tuxedoplaza.com^$document
 ||tvojedarilo.com^$document
@@ -4535,7 +4404,6 @@
 ||ubroskart.com^$document
 ||ucg.kiev.ua^$document
 ||uhren-koelbel.de^$document
-||uk.skycarte.com^$document
 ||ukgymmats.co.uk^$document
 ||ukppumbrellas.co.uk^$document
 ||ukrenergotrans.com.ua^$document
@@ -4607,7 +4475,6 @@
 ||vapersjuice.com^$document
 ||vapingdiscounters.com^$document
 ||vapourtastic.co.uk^$document
-||variasimx.com^$document
 ||varsitybowlingdeals.com^$document
 ||vasanticosmetics.com^$document
 ||vash-dom.pro^$document
@@ -4654,7 +4521,6 @@
 ||vipout.com^$document
 ||virginie-bijoux-montres.com^$document
 ||virtualdiplomat.com^$document
-||virtualfashion.com.br^$document
 ||visiblelight.com^$document
 ||visionartgalleries.com^$document
 ||visovativ-shop.de^$document
@@ -4711,9 +4577,9 @@
 ||webpaynew.magento.cl^$document
 ||webprice.com.au^$document
 ||webshop.fit-oil.com^$document
-||webshop.iceprotect.nl^$document
 ||webshop.tassi.hu^$document
 ||webshop.tezuk.com^$document
+||webwijnhuis.nl^$document
 ||wedding-anniversary.diamondx.com^$document
 ||wedding-bridal-sets.diamondx.com^$document
 ||wedding-engagement-rings.diamondx.com^$document
@@ -4733,7 +4599,6 @@
 ||welovegadgets.co.uk^$document
 ||wendersmusic.frocksteady.com^$document
 ||werbeagentur-neubauer.de^$document
-||wescoprullenbak.eu^$document
 ||westbankpharmacy.com^$document
 ||wesupply.ca^$document
 ||whatcomeyeglasses.com^$document
@@ -4743,6 +4608,7 @@
 ||wholesaledraft.com^$document
 ||wholesalerpro.com^$document
 ||wholesaletestosterone.net^$document
+||why2shy.com^$document
 ||why6percent.com^$document
 ||wickedhoney.sg^$document
 ||wielservicemateriaal.nl^$document
@@ -4755,19 +4621,14 @@
 ||wilsontimbers.com^$document
 ||windowtintkits.net^$document
 ||wiredmagentodemo.com^$document
-||wirelessdd.com^$document
 ||wirelesssounds.net^$document
 ||wismec.us^$document
-||withuiswoninginrichting.nl^$document
-||wloknoweglowe.com^$document
 ||wmsmoto.co.nz^$document
 ||wolfes.com^$document
-||womanindia.com^$document
 ||womenara.com^$document
 ||womens.se^$document
 ||woobamboo.de^$document
 ||wood-furnaces.net^$document
-||woodburning-stove-glass.co.uk^$document
 ||woodster.co.za^$document
 ||woodstick.co.uk^$document
 ||worklinesafety.co.uk^$document
@@ -4777,7 +4638,6 @@
 ||wrfashion.com^$document
 ||wrinklederm.com^$document
 ||wsmparts.com.au^$document
-||wudtul.com^$document
 ||wuppermann-intralogistik.de^$document
 ||www1.cplusresearch.com^$document
 ||www2.ledmexico.com.mx^$document
@@ -4785,14 +4645,13 @@
 ||x4labs.ca^$document
 ||xantres.com.gr^$document
 ||xclusivewatchstore.com^$document
+||xdesir.fr^$document
 ||xin-toy.com^$document
 ||xn--51-6kcp0addesj.xn--p1ai^$document
 ||xn--80adehcme1b2a1kvag.xn--p1ai^$document
 ||xn--80adrcjunefab1o.xn--p1ai^$document
 ||xn--b1agaxagie9l.xn--p1ai^$document
 ||xn--e1aaatidmclcle2a8n.xn--p1ai^$document
-||xn--liebesschloss-kln-e0b.de^$document
-||xoparfum.nl^$document
 ||xoxoing.com^$document
 ||xpangroup.com^$document
 ||xshop.vn^$document
@@ -4812,7 +4671,6 @@
 ||yelona.com^$document
 ||yesdeguo.com^$document
 ||yinyangqi.com^$document
-||yipeeee.com^$document
 ||yogin.com^$document
 ||yolli.com^$document
 ||yollitrade.com^$document
@@ -4842,12 +4700,9 @@
 ||zeees.co.uk^$document
 ||zefirelli.com.br^$document
 ||zencandles.co.uk^$document
-||zenrite.co.uk^$document
 ||zensual.com^$document
 ||zerafet.com^$document
 ||zero.com.my^$document
-||zettamoda.com^$document
-||zhishimotuo.com^$document
 ||zihane-business.com^$document
 ||zippopood.ee^$document
 ||zippoveikals.lv^$document
