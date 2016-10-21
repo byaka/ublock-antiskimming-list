@@ -6,7 +6,7 @@
 ! Original post: https://gwillem.gitlab.io/2016/10/11/5900-online-stores-found-skimming/
 ! Sources: https://gitlab.com/gwillem/public-snippets/snippets/28813
 ! Support: https://github.com/byaka/ublock-antiskimming-list/issues
-! Updated: 2016-10-20 19:03:42
+! Updated: 2016-10-21 13:04:55
 
 ||00-lawyer.com^$document
 ||1010buybuy.com^$document
@@ -2485,7 +2485,6 @@
 ||lesplaisirsdelili.com^$document
 ||letempleducharme.com^$document
 ||leticiaerroz.com.ar^$document
-||letogo.de^$document
 ||letscall.pt^$document
 ||letsclean.dk^$document
 ||letsgetsexy.co.uk^$document
