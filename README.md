@@ -7,9 +7,5 @@ This subscription updating automatically and always up-to-date!
 
 [Permalink](https://raw.githubusercontent.com/byaka/ublock-antiskimming-list/master/build/data.txt) to actual file for uBlock or AdBlock.
 
-Or use link on [this](https://byaka.github.io/ublock-antiskimming-list/) page for auto-subscribing
-<<<<<<< HEAD
-
-=======
->>>>>>> c5d82b4d8ed44942d4c3a564b5e4861a7315d3b4
+Or use link on [this](https://byaka.github.io/ublock-antiskimming-list/) page for auto-subscribing.
 
