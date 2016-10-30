@@ -67,7 +67,7 @@ class updater(object):
    def stop(self):
       #! need to run main cicle in another thread or greenlet
       self._needStop=True
-      print 'Stopping, please wait near %s seconds..'%self._timeSleep
+      print '~~~ Stopping, please wait near %s seconds..'%self._timeSleep
 
    def start(self):
       print 'Main cicle started!'
@@ -92,6 +92,8 @@ class updater(object):
                      self.gitCommit()
                      self._lastChange=getms(False)
                      print '   OK'
+               else:
+                  print '! Empty data..', self.timestamp()
                self._lastRun=getms(False)
             except Exception, e:
                print '!!! Some error in main cicle: %s'%e
