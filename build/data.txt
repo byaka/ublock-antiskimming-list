@@ -6,7 +6,7 @@
 ! Original post: https://gwillem.gitlab.io/2016/10/11/5900-online-stores-found-skimming/
 ! Sources: https://gitlab.com/gwillem/public-snippets/snippets/28813
 ! Support: https://github.com/byaka/ublock-antiskimming-list/issues
-! Updated: 2016-11-03 13:10:30
+! Updated: 2016-11-06 13:15:29
 
 ||00-lawyer.com^$document
 ||015inkt.nl^$document
@@ -2046,7 +2046,6 @@
 ||lasergravur-innojoin.de^$document
 ||latiendadelnavegante.net^$document
 ||latingrapes.com.au^$document
-||lauf.com.br^$document
 ||laundryproducts.eu^$document
 ||laurelbankantiques.co.uk^$document
 ||lautusthelabel.com^$document
