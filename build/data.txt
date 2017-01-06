@@ -6,7 +6,7 @@
 ! Original post: https://gwillem.gitlab.io/2016/10/11/5900-online-stores-found-skimming/
 ! Sources: https://gitlab.com/gwillem/public-snippets/snippets/28813
 ! Support: https://github.com/byaka/ublock-antiskimming-list/issues
-! Updated: 2016-12-21 08:28:28
+! Updated: 2017-01-06 17:53:58
 
 ||00-lawyer.com^$document
 ||123-hairshop.de^$document
@@ -3660,7 +3660,6 @@
 ||rattoutch.com^$document
 ||ravesports.com^$document
 ||raw-threads.com^$document
-||rayandterry.com^$document
 ||raymax.com.sg^$document
 ||raypens.com^$document
 ||raystitch.co.uk^$document
